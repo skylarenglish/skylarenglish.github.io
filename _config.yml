@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning, Mathematics, Gameplaying, Storytelling"
   location         : "Bryan, TX"
-  email            : skylar.english@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
