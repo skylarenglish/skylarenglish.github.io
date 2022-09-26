@@ -14,7 +14,7 @@ tags:
 |:---------------------------------------------------------------------------------------:|:------:|:----+|:-------:|
 | [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)               | 3.97   | 150  | 2-5, 4  |
 | [Root](https://boardgamegeek.com/boardgame/237182/root)                                 | 3.75   | 90   | 3-4, 4  |
-| [Twilight Struggle](https://boardgamegeek.com/boardgame/12333/twilight-struggle)        | 3.60   | 180  | 2       |
+| [Twilight Struggle: Red Sea](https://boardgamegeek.com/boardgame/300192/twilight-struggle-red-sea-conflict-horn-africa)        | 3.60   | 180  | 2       |
 | [Netrunner (Nisei)](https://boardgamegeek.com/boardgame/124742/android-netrunner)       | 3.40   | 45   | 2       |
 | [Puerto Rico](https://boardgamegeek.com/boardgame/3076/puerto-rico)                     | 3.27   | 150  | 2-5, 4  |
 | [Power Grid](https://boardgamegeek.com/boardgame/2651/power-grid)                       | 3.26   | 120  | 2-6, 5  |
