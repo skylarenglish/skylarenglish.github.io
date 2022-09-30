@@ -39,6 +39,7 @@ Each after game report will include:
 - Game start time
 - Game end time
 - Signatures of all players
+
 Points will be calculated for the players automatically, as long as you submit your Game Report correctly.
 
 ## Points
