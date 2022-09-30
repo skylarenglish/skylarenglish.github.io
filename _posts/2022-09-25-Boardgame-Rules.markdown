@@ -11,7 +11,7 @@ tags:
 ## Game List
 
 | Game Name                                                                               | Weight | Time | Players, Best |
-|:---------------------------------------------------------------------------------------:|:------:|:----+|:-------:|
+|:---------------------------------------------------------------------------------------+|:-----+|:----+|:-------+|
 | [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)               | 3.97   | 150  | 2-5, 4  |
 | [Root](https://boardgamegeek.com/boardgame/237182/root)                                 | 3.75   | 90   | 3-4, 4  |
 | [Netrunner (Nisei)](https://boardgamegeek.com/boardgame/124742/android-netrunner)       | 3.40   | 45   | 2       |
@@ -49,11 +49,11 @@ Points will be awarded based on each Game Report. Each game will be worth the (a
 >
 > Zack comes in second place, Paul third and poor foolish Skylar comes in fourth.
 >
-> |Player|Game Time| Score|
-> |Les    | 145 minutes| 145/1 = 145|
-> |Zack   | 145 minutes| 145/2 = 73 |
-> |Paul   | 145 minutes| 145/3 = 48 |
-> |Skylar | 145 minutes| 145/4 = 36 |
+> | Player | Game Time   | Score       |
+> | Les    | 145 minutes | 145/1 = 145 |
+> | Zack   | 145 minutes | 145/2 = 73  |
+> | Paul   | 145 minutes | 145/3 = 48  |
+> | Skylar | 145 minutes | 145/4 = 36  |
 
 ## Conceding
 Conceding is encouraged once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points. The game can only be conceded as long as all players besides the winner agree and sign the Game Report. What is written on the Game Report is final.
