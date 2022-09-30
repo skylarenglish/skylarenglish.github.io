@@ -14,7 +14,6 @@ tags:
 |:---------------------------------------------------------------------------------------:|:------:|:----+|:-------:|
 | [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)               | 3.97   | 150  | 2-5, 4  |
 | [Root](https://boardgamegeek.com/boardgame/237182/root)                                 | 3.75   | 90   | 3-4, 4  |
-| [TS: Red Sea](https://boardgamegeek.com/boardgame/300192/twilight-struggle-red-sea-conflict-horn-africa) | 3.60 | 180 | 2 |
 | [Netrunner (Nisei)](https://boardgamegeek.com/boardgame/124742/android-netrunner)       | 3.40   | 45   | 2       |
 | [Puerto Rico](https://boardgamegeek.com/boardgame/3076/puerto-rico)                     | 3.27   | 150  | 2-5, 4  |
 | [Power Grid](https://boardgamegeek.com/boardgame/2651/power-grid)                       | 3.26   | 120  | 2-6, 5  |
@@ -22,6 +21,7 @@ tags:
 | [Mage Wars Academy](https://boardgamegeek.com/boardgame/172503/mage-wars-academy)       | 3.03   | 30   | 2       |
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  |
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  |
+| [TS: Red Sea](https://boardgamegeek.com/boardgame/300192/twilight-struggle-red-sea-conflict-horn-africa) | 2.67 | 75 | 2 |
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |
 | [Undaunted](https://boardgamegeek.com/boardgame/268864/undaunted-normandy)              | 2.25   | 60   | 2       |
 | [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)             | 2.22   | 30   | 2       |
@@ -39,19 +39,24 @@ Each after game report will include:
 - Game start time
 - Game end time
 - Signatures of all players
+Points will be calculated for the players automatically, as long as you submit your Game Report correctly.
 
 ## Points
 Points will be awarded based on each Game Report. Each game will be worth the (amount of time played / player's final position), rounded to the nearest integer. For example:
 > Let's say Skylar, Paul, Zack and Les play a zesty game of Dune Imperium
-> They play for 145 minutes and Les wins (due to his Mantat training, no doubt)
+>
+> They play for 145 minutes and Les wins (due to his Mentat training, no doubt)
+>
 > Zack comes in second place, Paul third and poor foolish Skylar comes in fourth.
-> 145 minutes Game Time, Les comes in first, 145/1 = 145 points.
-> 145 minutes Game Time, Zack comes in second, 145/2 = 73 points.
-> 145 minutes Game Time, Paul comes in third, 145/3 = 48 points.
-> 145 minutes Game Time, Les comes in first, 145/4 = 36 points.
+>
+> |Player|Game Time| Score|
+> |Les    | 145 minutes| 145/1 = 145|
+> |Zack   | 145 minutes| 145/2 = 73 |
+> |Paul   | 145 minutes| 145/3 = 48 |
+> |Skylar | 145 minutes| 145/4 = 36 |
 
 ## Conceding
-Conceding is encouraged once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points. The game can only be conceded as long as all players agree and sign the Game Report. What is written on the Game Report is final.
+Conceding is encouraged once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points. The game can only be conceded as long as all players besides the winner agree and sign the Game Report. What is written on the Game Report is final.
 
 ## No Repeats
 You may not play the same game back to back.
