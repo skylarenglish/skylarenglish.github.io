@@ -33,7 +33,7 @@ tags:
 | [Jaipur](https://boardgamegeek.com/boardgame/54043/jaipur)                              | 1.47   | 30   | 2       |
 
 ## Game Report
-Each game report will include 
+Each after game report will include:
 - Game Name
 - Players in Place Order (winning player first, second second and so forth)
 - Game start time
@@ -41,8 +41,14 @@ Each game report will include
 - Signatures of all players
 
 ## Points
-Points will be awarded based on each Game Report. The amount of time played / player's final position, rounded to the nearest integer. For example:
-> 95 minutes Game Time, Skylar comes in second, 95/2 = 48 points. 
+Points will be awarded based on each Game Report. Each game will be worth the (amount of time played / player's final position), rounded to the nearest integer. For example:
+> Let's say Skylar, Paul, Zack and Les play a zesty game of Dune Imperium
+> They play for 145 minutes and Les wins (due to his Mantat training, no doubt)
+> Zack comes in second place, Paul third and poor foolish Skylar comes in fourth.
+> 145 minutes Game Time, Les comes in first, 145/1 = 145 points.
+> 145 minutes Game Time, Zack comes in second, 145/2 = 73 points.
+> 145 minutes Game Time, Paul comes in third, 145/3 = 48 points.
+> 145 minutes Game Time, Les comes in first, 145/4 = 36 points.
 
 ## Conceding
 Conceding is encouraged once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points. The game can only be conceded as long as all players agree and sign the Game Report. What is written on the Game Report is final.
