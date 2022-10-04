@@ -3,6 +3,7 @@ title: "Boardgame Competition Rules"
 classes: wide
 header:
   image: /assets/images/stratego_rules.jpeg
+  image_description: "The Rules of Stratego"
   caption: "Photo credit: http://www.markalldridge.co.uk/uploads/1/8/7/0/18706268/6264212_orig.jpg"
 tags: 
   - fun
@@ -43,21 +44,33 @@ Each after game report will include:
 Points will be calculated for the players automatically, as long as you submit your Game Report correctly.
 
 ## Points
-Points will be awarded based on each Game Report. Each game will be worth the (amount of time played / player's final position), rounded to the nearest integer. For example:
+Points will be awarded based on each Game Report. Each game will be worth:
+
+> t * 1+((1-p)/(2n-2)) 
+
+where t = time, p = place order, and n = # of players
+
+This works out to last place always getting half the points of first place
+{: .notice--danger}
+For example:
 > Let's say Skylar, Paul, Zack and Les play a zesty game of Dune Imperium
 >
 > They play for 145 minutes and Les wins (due to his Mentat training, no doubt)
 >
 > Zack comes in second place, Paul third and poor foolish Skylar comes in fourth.
 >
-> | Player | Game Time   | Score       |
-> | Les    | 145 minutes | 145/1 = 145 |
-> | Zack   | 145 minutes | 145/2 = 73  |
-> | Paul   | 145 minutes | 145/3 = 48  |
-> | Skylar | 145 minutes | 145/4 = 36  |
+> | Player | Game Time   | Score           |
+> | Les    | 145 minutes | 145*(6/6) = 145 |
+> | Zack   | 145 minutes | 145*(5/6) = 121 |
+> | Paul   | 145 minutes | 145*(4/6) = 97  |
+> | Skylar | 145 minutes | 145*(3/6) = 73  |
 
-## Conceding
-Conceding is encouraged once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points. The game can only be conceded as long as all players besides the winner agree and sign the Game Report. What is written on the Game Report is final.
+
+## Conceding Is Encouraged
+Once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points, the other players should consider conceding.
+The game can only be conceded as long as all players besides the winner agree and sign the Game Report. What is written on the Game Report is final.
 
 ## No Repeats
 You may not play the same game back to back.
+
+## No Tricks
