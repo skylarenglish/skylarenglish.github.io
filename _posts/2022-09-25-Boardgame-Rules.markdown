@@ -23,9 +23,11 @@ tags:
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  |
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  |
 | [TS: Red Sea](https://boardgamegeek.com/boardgame/300192/twilight-struggle-red-sea-conflict-horn-africa) | 2.67 | 75 | 2 |
+| [Dominion](https://boardgamegeek.com/boardgame/36218/dominion)                          | 2.35   | 30   | 2-4, 3  |
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |
 | [Undaunted](https://boardgamegeek.com/boardgame/268864/undaunted-normandy)              | 2.25   | 60   | 2       |
 | [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)             | 2.22   | 30   | 2       |
+| [Dice Throne](https://boardgamegeek.com/boardgame/268201/dice-throne)                   | 2.18   | 40   | 2-4, 2  |
 | [Revolution](https://boardgamegeek.com/boardgame/34887/revolution)                      | 2.04   | 60   | 3-4, 4  |
 | [Mindbug](https://boardgamegeek.com/boardgame/345584/mindbug)                           | 2.00   | 25   | 2       |
 | [Quacks of Quendlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg) | 1.95   | 45   | 2-4, 4  |
