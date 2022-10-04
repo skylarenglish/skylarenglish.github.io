@@ -46,14 +46,8 @@ Each after game report will include:
 Points will be calculated for the players automatically, as long as you submit your Game Report correctly.
 
 ## Points
-Points will be awarded based on each Game Report. Each game will be worth:
+Points[^points] will be awarded based on each Game Report such that first place is worth the number of minutes played and last place is worth half as many points as first. The other places will subdivide the gap between first and last evenly[^intent].
 
-> t * (1+((1-p)/(2n-2)))
-
-where t = time, p = place order, and n = # of players
-
-This works out to last place always getting half the points of first place
-{: .notice--danger}
 For example:
 > Let's say Skylar, Paul, Zack and Les play a zesty game of Dune Imperium
 >
@@ -67,7 +61,6 @@ For example:
 > | Paul   | 145 minutes | 145*(4/6) = 97  |
 > | Skylar | 145 minutes | 145*(3/6) = 73  |
 
-
 ## Conceding Is Encouraged
 Once it becomes clear that a player is in the lead, especially if it seems like they are dragging the game out to earn extra points, the other players should consider conceding.
 The game can only be conceded as long as all players besides the winner agree and sign the Game Report. What is written on the Game Report is final.
@@ -76,3 +69,8 @@ The game can only be conceded as long as all players besides the winner agree an
 You may not play the same game back to back.
 
 ## No Tricks
+
+
+[^points]: t * (1+((1-p)/(2n-2))) where t = time, p = place order, and n = # of players [^index]
+[^intent]: The idea is to reward playing but still penalize losing while maintaining a simple scoring rule
+[^index]: as an example of why 0 indexing is nice, this simplifies to t * (1-(p/(2n-2))) when first place is 0
