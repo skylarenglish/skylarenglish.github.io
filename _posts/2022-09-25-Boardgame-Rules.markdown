@@ -11,7 +11,7 @@ tags:
 
 ## Game List
 
-| Game Name                                                                               | Weight | Time | Players, Best |
+| Game Name                                                                               | Complexity | Time | Players, Best |
 |:---------------------------------------------------------------------------------------+|:-----+|:----+|:-------+|
 | [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica)               | 3.97   | 150  | 2-5, 4  |
 | [Root](https://boardgamegeek.com/boardgame/237182/root)                                 | 3.75   | 90   | 3-4, 4  |
