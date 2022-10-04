@@ -48,7 +48,7 @@ Points will be calculated for the players automatically, as long as you submit y
 ## Points
 Points will be awarded based on each Game Report. Each game will be worth:
 
-> t * 1+((1-p)/(2n-2)) 
+> t * (1+((1-p)/(2n-2)))
 
 where t = time, p = place order, and n = # of players
 
