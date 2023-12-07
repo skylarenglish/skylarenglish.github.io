@@ -1,5 +1,5 @@
 ---
-title: "Boardgame Competition Rules"
+title: "Boardgame Competition Rules 2023"
 classes: wide
 header:
   image: /assets/images/stratego_rules.jpeg
