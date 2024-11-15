@@ -1,5 +1,5 @@
 ---
-title: "Boardgame Competition Rules 2023"
+title: "Boardgame Competition Rules 2024"
 classes: wide
 header:
   image: /assets/images/stratego_rules.jpeg
@@ -15,25 +15,30 @@ tags:
 |:---------------------------------------------------------------------------------------+|:-----+|:----+|:-------+|
 | [Root](https://boardgamegeek.com/boardgame/237182/root)                                 | 3.75   | 90   | 3-4, 4  |
 | [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence)   | 3.53   | 180  | 4-9, 6  |
-| [Netrunner (Nisei)](https://boardgamegeek.com/boardgame/124742/android-netrunner)       | 3.40   | 45   | 2       |
+| [BattleCON](https://boardgamegeek.com/boardgame/123123/battlecon-devastation-of-indines) | 3.11   | 45   | 2-5, 2 |
 | [Mage Wars Academy](https://boardgamegeek.com/boardgame/172503/mage-wars-academy)       | 3.03   | 30   | 2       |
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  |
+| [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)   | 2.92   | 120  | 2-4, 3  |
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  |
 | [TS: Red Sea](https://boardgamegeek.com/boardgame/300192/twilight-struggle-red-sea-conflict-horn-africa) | 2.67 | 75 | 2 |
 | [A War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)            | 2.56   | 60   | 4       |
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |
+| [War Chest](https://boardgamegeek.com/boardgame/249259/war-chest)                       | 2.30   | 30   | 2-4, 2  |
 | [Undaunted](https://boardgamegeek.com/boardgame/268864/undaunted-normandy)              | 2.25   | 60   | 2       |
 | [Clank](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure)       | 2.22   | 60   | 2-4, 3  |
 | [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)             | 2.22   | 30   | 2       |
 | [LOTR: The Confrontation](https://boardgamegeek.com/boardgame/18833/lord-rings-confrontation) | 2.20   | 30   | 2       |
 | [Dice Throne](https://boardgamegeek.com/boardgame/268201/dice-throne)                   | 2.18   | 40   | 2-4, 2  |
+| [Star Wars: The Deckbuilding Game](https://boardgamegeek.com/boardgame/374173/star-wars-the-deckbuilding-game) | 2.03   | 30   | 2  |
 | [Revolution](https://boardgamegeek.com/boardgame/34887/revolution)                      | 2.04   | 60   | 3-4, 4  |
 | [Mindbug](https://boardgamegeek.com/boardgame/345584/mindbug)                           | 2.00   | 25   | 2       |
 | [Kiri-ai: The Duel](https://boardgamegeek.com/boardgame/387769/kiri-ai-duel)            | 2.00   | 10   | 2       |
 | [Quacks of Quendlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg) | 1.95   | 45   | 2-4, 4  |
+| [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)                      | 1.89   | 30   | 2  |
 | [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)                         | 1.83   | 45   | 1-4, 3  |
 | [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/298638/sheriff-nottingham-2nd-edition) | 1.81   | 60   | 3-6, 5  |
 | [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)                         | 1.78   | 30   | 2-4, 3  |
+| [Mandala](https://boardgamegeek.com/boardgame/264241/mandala)                           | 1.78   | 20   | 2       |
 | [Air, Land & Sea](https://boardgamegeek.com/boardgame/247367/air-land-sea)              | 1.75   | 30   | 2       |
 | [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)                       | 1.61   | 30   | 2       |
 | [Fox in the Forest](https://boardgamegeek.com/boardgame/221965/fox-forest)              | 1.58   | 30   | 2       |
