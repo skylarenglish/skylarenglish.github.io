@@ -15,8 +15,10 @@ tags:
 |:---------------------------------------------------------------------------------------+|:-----+|:----+|:-------+|
 | [Root](https://boardgamegeek.com/boardgame/237182/root)                                 | 3.75   | 90   | 3-4, 4  |
 | [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence)   | 3.53   | 180  | 4-9, 6  |
+| [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)                             | 3.45   | 115  | 2-5, 4  |
 | [BattleCON](https://boardgamegeek.com/boardgame/123123/battlecon-devastation-of-indines) | 3.11   | 45   | 2-5, 2 |
 | [Mage Wars Academy](https://boardgamegeek.com/boardgame/172503/mage-wars-academy)       | 3.03   | 30   | 2       |
+| [Concordia (Venus Optional)](https://boardgamegeek.com/boardgame/256916/concordia-venus)| 3.02   | 120  | 2-6, 4  |
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  |
 | [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)   | 2.92   | 120  | 2-4, 3  |
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  |
@@ -30,7 +32,6 @@ tags:
 | [Clank](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure)       | 2.22   | 60   | 2-4, 3  |
 | [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)             | 2.22   | 30   | 2       |
 | [LOTR: The Confrontation](https://boardgamegeek.com/boardgame/18833/lord-rings-confrontation) | 2.20   | 30   | 2       |
-| [Dice Throne](https://boardgamegeek.com/boardgame/268201/dice-throne)                   | 2.18   | 40   | 2-4, 2  |
 | [Star Wars: The Deckbuilding Game](https://boardgamegeek.com/boardgame/374173/star-wars-the-deckbuilding-game) | 2.03   | 30   | 2  |
 | [Revolution](https://boardgamegeek.com/boardgame/34887/revolution)                      | 2.04   | 60   | 3-4, 4  |
 | [Mindbug](https://boardgamegeek.com/boardgame/345584/mindbug)                           | 2.00   | 25   | 2       |
@@ -45,6 +46,7 @@ tags:
 | [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)                       | 1.61   | 30   | 2       |
 | [Fox in the Forest](https://boardgamegeek.com/boardgame/221965/fox-forest)              | 1.58   | 30   | 2       |
 | [Jaipur](https://boardgamegeek.com/boardgame/54043/jaipur)                              | 1.47   | 30   | 2       |
+
 
 ## Game Report
 Each after game report will include:
