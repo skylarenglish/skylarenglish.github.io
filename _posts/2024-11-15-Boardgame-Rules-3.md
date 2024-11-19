@@ -17,6 +17,7 @@ tags:
 | [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence)   | 3.53   | 180  | 4-9, 6  |
 | [Scythe](https://boardgamegeek.com/boardgame/169786/scythe)                             | 3.45   | 115  | 2-5, 4  |
 | [Arcs](https://boardgamegeek.com/boardgame/359871/arcs)                                 | 3.37   | 120  | 2-4, 4  |
+| [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)       | 3.26   | 120  | 2-4, 3  |
 | [BattleCON](https://boardgamegeek.com/boardgame/123123/battlecon-devastation-of-indines) | 3.11   | 45   | 2-5, 2 |
 | [Mage Wars Academy](https://boardgamegeek.com/boardgame/172503/mage-wars-academy)       | 3.03   | 30   | 2       |
 | [Concordia (Venus Optional)](https://boardgamegeek.com/boardgame/256916/concordia-venus)| 3.02   | 120  | 2-6, 4  |
