@@ -2,9 +2,9 @@
 title: "Boardgame Competition Rules 2024"
 classes: wide
 header:
-  image: /assets/images/stratego_rules.jpeg
-  image_description: "The Rules of Stratego"
-  caption: "Photo credit: http://www.markalldridge.co.uk/uploads/1/8/7/0/18706268/6264212_orig.jpg"
+  image: /assets/images/Sekigahara.jpeg
+  image_description: "Sekigahara Kassen screen"
+  caption: "Photo credit: https://en.wikipedia.org/wiki/Battle_of_Sekigahara#/media/File:Sekigahara_Kassen_By%C5%8Dbu-zu_(Gifu_History_Museum).jpg"
 tags: 
   - fun
 ---
