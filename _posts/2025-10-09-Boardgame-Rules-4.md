@@ -87,6 +87,9 @@ Max, Toph, Rachel, Zack and Karson are the scions of the Great Houses. If more t
 ## Ronin
 Jules, Brenna, Les, John N. and Paul get a single Challenge token for the day that they may issue to play a particular game against a player. In the case of a multiplayer game they may use their token to ensure a spot in the game. [^challenge]
 
+## The Gauntlet
+
+
 ## No Repeats
 You may not play the same game back to back.
 
@@ -96,4 +99,3 @@ You may not play the same game back to back.
 [^points]: t * (1+((1-p)/(2n-2))) where t = time, p = place order, and n = # of players [^index]
 [^intent]: The idea is to reward playing but still penalize losing while maintaining a simple scoring rule
 [^index]: as an example of why 0 indexing is nice, this simplifies to t * (1-(p/(2n-2))) when first place is 0
-[^challenge]: This challenge may not be refused. Adjudication of legality of challenges is reserved to Lords of Thank and Smas and we encourage people to spread out the challenges, not just all challenging Max, as funny as that would be.
