@@ -23,7 +23,7 @@ tags:
 | [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)   | 2.92   | 120  | 2-4, 3  ||✔️||
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  ||||
 | [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan)                         | 2.80   | 90   | 2-5, 3  ||||
-| [A War of Whispers](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)   | 2.37   | 60   | 2       |✔️|||
+| [A War of Whispers](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)   | 2.37   | 60   | 2       ||||
 | [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/253499/war-whispers)      | 2.56   | 60   | 4       |✔️|||
 | [Brew](https://boardgamegeek.com/boardgame/332386/brew)                                 | 2.37   | 90   | 2-4, 3  ||||
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |||🥊|
