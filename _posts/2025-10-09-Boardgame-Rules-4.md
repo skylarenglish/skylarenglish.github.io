@@ -27,6 +27,7 @@ tags:
 | [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/253499/war-whispers)      | 2.56   | 60   | 4       |✔️|||
 | [Brew](https://boardgamegeek.com/boardgame/332386/brew)                                 | 2.37   | 90   | 2-4, 3  ||||
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |||🥊|
+| [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)                        | 2.31   | 30   | 2-7, 5  ||||
 | [War Chest](https://boardgamegeek.com/boardgame/249259/war-chest)                       | 2.30   | 30   | 2-4, 2  ||✔️||
 | [Undaunted](https://boardgamegeek.com/boardgame/268864/undaunted-normandy)              | 2.25   | 60   | 2       ||✔️||
 | [Clank](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure)       | 2.22   | 60   | 2-4, 3  ||||
