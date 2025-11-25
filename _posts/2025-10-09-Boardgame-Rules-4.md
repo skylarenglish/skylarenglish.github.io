@@ -21,10 +21,13 @@ tags:
 | [Concordia (Venus Optional)](https://boardgamegeek.com/boardgame/256916/concordia-venus)| 3.02   | 120  | 2-6, 4  ||||
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  ||||
 | [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)   | 2.92   | 120  | 2-4, 3  ||✔️||
+| [Castles of Burgundy](https://boardgamegeek.com/boardgame/271320/the-castles-of-burgundy) | 2.92   | 120  | 1-4, 2  |✔️|✔️||
+| [Earth](https://boardgamegeek.com/boardgame/350184/earth)                               | 2.90   | 90  | 1-5, 3  |✔️|✔️||
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  ||||
+| [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)                         | 2.83   | 80   | 1-4, 3  ||||
 | [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan)                         | 2.80   | 90   | 2-5, 3  ||||
-| [A War of Whispers](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)   | 2.37   | 60   | 2       ||||
-| [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/253499/war-whispers)      | 2.56   | 60   | 4       |✔️|||
+| [A War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)   | 2.37   | 60   | 2       ||||
+| [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)      | 2.56   | 60   | 4  |✔️|||
 | [Brew](https://boardgamegeek.com/boardgame/332386/brew)                                 | 2.37   | 90   | 2-4, 3  ||||
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |||🥊|
 | [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)                        | 2.31   | 30   | 2-7, 5  ||||
