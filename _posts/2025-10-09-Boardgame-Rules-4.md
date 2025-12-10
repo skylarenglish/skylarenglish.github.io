@@ -24,10 +24,10 @@ tags:
 | [Castles of Burgundy](https://boardgamegeek.com/boardgame/271320/the-castles-of-burgundy) | 2.92   | 120  | 1-4, 2  |✔️|✔️||
 | [Earth](https://boardgamegeek.com/boardgame/350184/earth)                               | 2.90   | 90  | 1-5, 3  |✔️|✔️||
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  ||||
-| [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)                         | 2.83   | 80   | 1-4, 3  ||||
-| [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan)                         | 2.80   | 90   | 2-5, 3  ||||
-| [A War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)   | 2.37   | 60   | 2       ||||
-| [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)      | 2.56   | 60   | 4  |✔️|||
+| [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)                         | 2.83   | 80   | 1-4, 3  |✔️|✔️||
+| [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan)                         | 2.81   | 90   | 2-5, 3  ||||
+| [A War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)   | 2.57   | 60   | 2-4, 2       ||||
+| [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)      | 2.39   | 60   | 2  |✔️|||
 | [Brew](https://boardgamegeek.com/boardgame/332386/brew)                                 | 2.37   | 90   | 2-4, 3  ||||
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |||🥊|
 | [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)                        | 2.31   | 30   | 2-7, 5  ||||
@@ -86,10 +86,10 @@ The game can only be conceded as long as all players besides the winner agree an
 ## The Gauntlet
 The two players with the highest cumulative SkylarScore®[^score] will be given the opportunity to decide who is best in an exhibition match Sunday involving the following 5 relatively quick games.
 
-Hive
-Mandala
-Kiri-Ai The Duel
-Battle Line
+Hive,
+Mandala,
+Kiri-Ai The Duel,
+Battle Line,
 7 Wonders Duel
 
 If you would like to be able to win the Gauntlet, it is recommended that you be aware of those games.
