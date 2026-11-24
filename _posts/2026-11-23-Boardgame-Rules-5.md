@@ -21,13 +21,13 @@ tags:
 | [Concordia (Venus Optional)](https://boardgamegeek.com/boardgame/256916/concordia-venus)| 3.02   | 120  | 2-6, 4  ||||
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  ||||
 | [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)   | 2.92   | 120  | 2-4, 3  ||✔️||
-| [Castles of Burgundy](https://boardgamegeek.com/boardgame/271320/the-castles-of-burgundy) | 2.92   | 120  | 1-4, 2  |✔️|✔️||
-| [Earth](https://boardgamegeek.com/boardgame/350184/earth)                               | 2.90   | 90  | 1-5, 3  |✔️|✔️||
+| [Castles of Burgundy](https://boardgamegeek.com/boardgame/271320/the-castles-of-burgundy) | 2.92   | 120  | 1-4, 2  ||||
+| [Earth](https://boardgamegeek.com/boardgame/350184/earth)                               | 2.90   | 90  | 1-5, 3  ||||
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  ||||
-| [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)                         | 2.83   | 80   | 1-4, 3  |✔️|✔️||
+| [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)                         | 2.83   | 80   | 1-4, 3  ||||
 | [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan)                         | 2.81   | 90   | 2-5, 3  ||||
 | [A War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)   | 2.57   | 60   | 2-4, 2       ||||
-| [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)      | 2.39   | 60   | 2  |✔️|||
+| [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)      | 2.39   | 60   | 2  ||✔️||
 | [Brew](https://boardgamegeek.com/boardgame/332386/brew)                                 | 2.37   | 90   | 2-4, 3  ||||
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |||🥊|
 | [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders)                        | 2.31   | 30   | 2-7, 5  ||||
@@ -35,15 +35,15 @@ tags:
 | [Undaunted](https://boardgamegeek.com/boardgame/268864/undaunted-normandy)              | 2.25   | 60   | 2       ||✔️||
 | [Clank](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure)       | 2.22   | 60   | 2-4, 3  ||||
 | [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)             | 2.22   | 30   | 2       |||🥊|
-| [LOTR: The Confrontation](https://boardgamegeek.com/boardgame/18833/lord-rings-confrontation) | 2.20   | 30   | 2       ||✔️||
-| [Compile](https://boardgamegeek.com/boardgame/406652/compile-main-1)                    | 2.09   | 30   | 2       ||✔️||
+| [LOTR: The Confrontation](https://boardgamegeek.com/boardgame/18833/lord-rings-confrontation) | 2.20   | 30   | 2       ||||
+| [Compile](https://boardgamegeek.com/boardgame/406652/compile-main-1)                    | 2.09   | 30   | 2       ||||
 | [Star Wars: The Deckbuilding Game](https://boardgamegeek.com/boardgame/374173/star-wars-the-deckbuilding-game) | 2.03   | 30   | 2  ||||
-| [Revolution](https://boardgamegeek.com/boardgame/34887/revolution)                      | 2.04   | 60   | 3-4, 4  ||||
+| [Revolution](https://boardgamegeek.com/boardgame/34887/revolution)                      | 2.04   | 60   | 3-6, 4  ||||
 | [Mindbug](https://boardgamegeek.com/boardgame/345584/mindbug)                           | 2.00   | 25   | 2       ||✔️||
 | [Kiri-ai: The Duel](https://boardgamegeek.com/boardgame/387769/kiri-ai-duel)            | 2.00   | 10   | 2       |||🥊|
-| [Quacks of Quendlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg) | 1.95   | 45   | 2-4, 4  ||||
+| [Quacks of Quendlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg) | 1.95   | 45   | 2-5, 4  ||||
 | [Battle Line](https://boardgamegeek.com/boardgame/760/battle-line)                      | 1.89   | 30   | 2  ||✔️|🥊|
-| [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)                         | 1.83   | 45   | 1-4, 3  ||✔️||
+| [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)                         | 1.83   | 45   | 1-4, 3  ||||
 | [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/298638/sheriff-nottingham-2nd-edition) | 1.81   | 60   | 3-6, 5  ||||
 | [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)                         | 1.78   | 30   | 2-4, 3  ||||
 | [Mandala](https://boardgamegeek.com/boardgame/264241/mandala)                           | 1.78   | 20   | 2       ||✔️|🥊|
