@@ -18,15 +18,19 @@ tags:
 | [Arcs](https://boardgamegeek.com/boardgame/359871/arcs)                                 | 3.37   | 120  | 2-4, 4  ||||
 | [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars)       | 3.26   | 120  | 2-4, 3  ||||
 | [BattleCON](https://boardgamegeek.com/boardgame/123123/battlecon-devastation-of-indines) | 3.11   | 45   | 2-5, 2 ||✔️||
+| [Pagan: Fate of Roanoke](https://boardgamegeek.com/boardgame/319910/pagan-fate-of-roanoke) | 3.05   | 60   | 2 |✔️|✔️||
 | [Concordia (Venus Optional)](https://boardgamegeek.com/boardgame/256916/concordia-venus)| 3.02   | 120  | 2-6, 4  ||||
 | [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)               | 3.01   | 120  | 2-4, 4  ||||
+| [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-for-the-galaxy)               | 2.99   | 60  | 2-4, 2  |✔️|✔️||
 | [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak)   | 2.92   | 120  | 2-4, 3  ||✔️||
 | [Castles of Burgundy](https://boardgamegeek.com/boardgame/271320/the-castles-of-burgundy) | 2.92   | 120  | 1-4, 2  ||||
 | [Earth](https://boardgamegeek.com/boardgame/350184/earth)                               | 2.90   | 90  | 1-5, 3  ||||
 | [Viticulture](https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition) | 2.89   | 90   | 2-6, 4  ||||
+| [Container](https://boardgamegeek.com/boardgame/453740/container) | 2.86   | 90   | 3-5, 5  |✔️|✔️||
 | [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)                         | 2.83   | 80   | 1-4, 3  ||||
 | [Wyrmspan](https://boardgamegeek.com/boardgame/410201/wyrmspan)                         | 2.81   | 90   | 2-5, 3  ||||
 | [A War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)   | 2.57   | 60   | 2-4, 2       ||||
+| [Acquire](https://boardgamegeek.com/boardgame/5/acquire)   | 2.49   | 90   | 2-6, 4       |✔️|✔️||
 | [Kelp: Shark vs. Octopus](https://boardgamegeek.com/boardgame/374595/kelp-shark-vs-octopus)      | 2.39   | 60   | 2  ||✔️||
 | [Brew](https://boardgamegeek.com/boardgame/332386/brew)                                 | 2.37   | 90   | 2-4, 3  ||||
 | [Hive](https://boardgamegeek.com/boardgame/2655/hive)                                   | 2.32   | 20   | 2       |||🥊|
